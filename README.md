@@ -1,6 +1,8 @@
 # ML-fake-real-JobPostings
 # Introduction
- 	The fake job position dataset contains 17,880 job postings, among which 866 are fake. There are 16 different features and a target variable (fraudulent) in the data. We are going to use the dataset to create classification models which can learn the job descriptions which are fraudulent. We will use Naive bayes classification and decision trees to analyze the data and find out which will produce better results. Since some of the features are textual information and unique (company profile, description, requirements), we will omit those features for greater simplicity.
+ 	The fake job position dataset contains 17,880 job postings, among which 866 are fake. There are 16 different features and a target variable (fraudulent) in the data. We are going to use the dataset to create classification models which can learn the job descriptions which are fraudulent. We will use Naive bayes classification and decision trees to analyze the data and find out which will produce better results. Since some of the features are textual information and unique (company profile, description, requirements), we will omit those features for greater simplicity./
+
+Dataset sources :https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 # Results & Discussion
 Decision Tree Model
 In order to create a classification decision tree using R, the following features were used:
