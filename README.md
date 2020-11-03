@@ -4,7 +4,7 @@
 Dataset sources :https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction \
 language used : R
 # Results & Discussion
-Decision Tree Model
+# Decision Tree Model
 In order to create a classification decision tree using R, the following features were used:
 Telecommuting required
 Has company logo
